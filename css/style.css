@@ -1,0 +1,30 @@
+link {index.html} 
+display: inline-block;
+vertical-align: top
+div.a {
+    width: 23px;
+  }
+div { padding-top: 1px;}
+element-class: nav;
+margin-left: auto;
+text-align: center;
+div.a {
+    height: 600px;
+    padding: 25px ;
+  }
+  div.b {
+    width: 500px;
+ 
+  }
+  p {
+    margin-top: 0;
+  
+  }
+  p {
+    text-align: center;
+    color:#373738;
+  }
+  p {
+  text-align: center;
+    vertical-align: top;;
+  }
